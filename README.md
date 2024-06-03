@@ -26,7 +26,7 @@ This tool generates random Social Security Numbers (SSNs) along with associated 
 
 1. **Clone the Repository:**
    ```bash
-   [git clone https://github.com/[your_username]/ssn_generator.git](https://github.com/Techbyets/Social-Security-Number-SSN-Generator-Tool)
+git clone https://github.com/Techbyets/Social-Security-Number-SSN-Generator-Tool
    ```
 
 2. **Navigate to the Directory:**
