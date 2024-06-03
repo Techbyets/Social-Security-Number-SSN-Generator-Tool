@@ -56,4 +56,3 @@ This tool generates random Social Security Numbers (SSNs) along with associated 
 ### Notes:
 - Ensure you have Python 3.x and pip installed on your system before running the tool.
 - The generated SSNs are for educational and demonstration purposes only and should not be used for any illegal activities.
-```
